@@ -5,7 +5,7 @@ from PIL import Image
 import numpy as np
 
 # Load your trained model
-model = load_model("resnet_faulty_detector_v1.h5")
+model = load_model("resnet_faultY_detector_v1.h5")
 
 # Streamlit app title
 st.title("🧠 Steel Defect Classifier")
